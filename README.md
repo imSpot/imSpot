@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 Hi! I'm 
-### Carlos
-, AKA imSpot/imSpot
+### Carlos,
+AKA
+### imSpot/imSpot
 
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning computer science related things
